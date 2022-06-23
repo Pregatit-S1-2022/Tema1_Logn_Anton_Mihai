@@ -20,7 +20,8 @@ namespace Classes
 
             Users[] person = new Users[1];
 
-
+// incearca ca denumirile de variabile si metode sa le tii in engleza.
+// E bine sa spargi logica si sa creezi metode separate Login, Register, etc deoarece asa pus la gramada e foarte greu de urmarit.
             while (optiuneConvertita != 1 && optiuneConvertita != 2 && optiuneConvertita != 3 && optiuneConvertita != 4)
             {
                 try
